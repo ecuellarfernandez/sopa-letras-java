@@ -1,6 +1,6 @@
 Semestre I - 2022
-#Sopa de Letras
-##OBJETIVOS
+# Sopa de Letras
+## OBJETIVOS
 1.	Desarrollar las capacidades de abstracción mediante el análisis e interpretación del problema
 2.	Aplicar los conocimientos y fundamentos de la programación en la resolución del proyecto final.
 ESPECIFICACIONES
