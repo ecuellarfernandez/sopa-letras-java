@@ -3,7 +3,7 @@ Semestre I - 2022
 ## OBJETIVOS
 1.	Desarrollar las capacidades de abstracción mediante el análisis e interpretación del problema
 2.	Aplicar los conocimientos y fundamentos de la programación en la resolución del proyecto final.
-ESPECIFICACIONES
+# ESPECIFICACIONES
 Se requiere un sistema que pueda resolver una sopa de letras.
 Para este sistema primeramente se desplegará un menú con las siguientes opciones.
 Presione el número de la opción
